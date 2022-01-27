@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobilsingh
 - 👀 I’m interested in Web Development, java Development, Software Development.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working at Functionapps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bobilsingh@yahoo.com
 
